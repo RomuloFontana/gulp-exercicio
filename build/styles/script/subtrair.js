@@ -1,0 +1,1 @@
+function subtrair(r,o){return r+o}console.log("Subtração: ",subtrair(23,8));
